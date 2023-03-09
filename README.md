@@ -1,5 +1,5 @@
 # Why hello 👋
-<h3>Principal Network Engineer, NetDevOps Aficionado, Homelab Enthusiast</h3>
+<h3>Network God, NetDevOps Aficionado, Homelab Enthusiast</h3>
 <br />
 
 <p>
