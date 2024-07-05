@@ -1,23 +1,14 @@
-# Why hello 👋
-<h3>Network God, NetDevOps Aficionado, Homelab Enthusiast</h3>
-<br />
+### Hi there 👋, my name is Dakota
+#### I am a network engineer by day, aspiring developer by night
+All of my stuff is made for fun and is all a learning experience. My code is messy but it works. 
 
-<p>
-	<a href="https://www.shrunbr.dev">
-		<img src="https://img.shields.io/badge/-Blog-282c35?logo=ghost&style=for-the-badge" alt="Blog" />
-	</a>
-	</a>
-	<a href="https://twitter.com/shrunbr">
-		<img src="https://img.shields.io/badge/-Twitter-9cf?logo=twitter&style=for-the-badge" alt="Twitter" />
-	</a>
-	<a href="mailto:shrunbr@throne.dev">
-		<img src="https://img.shields.io/badge/-shrunbr@throne.dev-blueviolet?logo=mail.ru&style=for-the-badge" alt="Email" />
-	</a>
-</p>
+Skills: Python, Some JS and Network Automation
 
-<img src="https://gpvc.arturio.dev/shrunbr" alt="Profile views" />
+- 🔭 I’m currently working on a bunch of different stuff, check out my repos 
+- 🌱 I’m currently learning Javascript/Typescript 
+- 📫 How to reach me: shrunbr@throne.dev 
 
-<hr />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrunbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrunbr)  
 
 <h3 align="left">Languages & Interests:</h3>
 <p align="left">
@@ -26,6 +17,9 @@
 	</a>
     <a href="https://www.ansible.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="go" width="40" height="40"/>
+	</a>
+    <a href="https://www.hashicorp.com" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="go" width="40" height="40"/>
 	</a>
     <a href="https://www.cisco.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="go" width="40" height="40"/>
@@ -42,18 +36,11 @@
 	<a href="https://www.docker.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 	</a>
-    <a href="https://aws.amazon.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="go" width="40" height="40"/>
-	</a>
     <a href="https://www.cloudflare.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="go" width="40" height="40"/>
 	</a>
 </p>
 
-<hr />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrunbr)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrunbr"/>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shrunbr&show_icons=true&theme=gotham" alt="shrunbr" />
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrunbr&show_icons=true)  
