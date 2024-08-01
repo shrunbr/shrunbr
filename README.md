@@ -5,7 +5,7 @@ All of my stuff is made for fun and is all a learning experience. My code is mes
 Skills: Python, Some JS and Network Automation
 
 - 🔭 I’m currently working on a bunch of different stuff, check out my repos 
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning game development
 - 📫 How to reach me: shrunbr@throne.dev 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrunbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrunbr)  
