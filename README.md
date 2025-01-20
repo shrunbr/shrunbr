@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Dakota
-#### I am a network engineer by day, aspiring developer by night
+#### I am a network engineering manager by day, aspiring developer by night
 All of my stuff is made for fun and is all a learning experience. My code is messy but it works. 
 
-Skills: Python, Some JS and Network Automation
+Skills: Python, Network Automation and Some JS
 
 - 🔭 I’m currently working on a bunch of different stuff, check out my repos 
 - 🌱 I’m currently learning different technologies in my homelab
