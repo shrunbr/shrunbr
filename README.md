@@ -41,7 +41,3 @@ Skills: Python, Network Automation and Some JS
 		<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="go" width="40" height="40"/>
 	</a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrunbr)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrunbr&show_icons=true)  
