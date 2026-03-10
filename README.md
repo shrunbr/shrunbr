@@ -9,8 +9,7 @@ Skills: Python, Network Automation and Some JS
 - 📫 How to reach me: shrunbr@shockmail.biz
 - 🌐 Visit my homepage: https://shrunbr.dev
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrunbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrunbr) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='twitter' height='40'>](discord://-/users/156593193243115521)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrunbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrunbr)
 <h3 align="left">Languages & Interests:</h3>
 <p align="left">
 	<a href="https://www.python.org/" target="_blank">
