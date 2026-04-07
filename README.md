@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dakota
-#### I am a network engineering manager by day, aspiring developer by night
+
 All of my stuff is made for fun and is all a learning experience. My code is messy but it works. 
 
 Skills: Python, Network Automation and Some JS
