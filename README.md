@@ -7,7 +7,6 @@ Skills: Python, Network Automation and Some JS
 - 🔭 I’m currently working on a bunch of different stuff, check out my repos 
 - 🌱 I’m currently learning different technologies in my homelab
 - 📫 How to reach me: shrunbr@shockmail.biz
-- 🌐 Visit my homepage: https://shrunbr.dev
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrunbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrunbr)
 <h3 align="left">Languages & Interests:</h3>
